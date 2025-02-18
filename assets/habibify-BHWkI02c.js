@@ -17453,7 +17453,7 @@ function G4() {
               J.jsxs("a", {
                 className:
                   "h-16 text-center text-xs flex flex-col justify-between ",
-                href: "https://t.me/",
+                href: "https://t.me/habibioneth/",
                 "aria-label": "telegram",
                 children: [
                   J.jsx("img", {
@@ -17467,7 +17467,7 @@ function G4() {
               J.jsxs("a", {
                 className:
                   "h-16 text-center text-xs flex flex-col justify-between",
-                href: "https://x.com/",
+                href: "https://x.com/habibioneth/",
                 "aria-label": "twitter",
                 children: [
                   J.jsx("img", {

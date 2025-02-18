@@ -155,7 +155,7 @@ const et = "/assets/slim1-wadI2gDo.webp",
               children: [
                 u.jsxs("a", {
                   className: "h-full text-center text-xs",
-                  href: "https://t.me/",
+                  href: "https://t.me/habibioneth/",
                   "aria-label": "telegram",
                   children: [
                     u.jsx("img", {
@@ -168,7 +168,7 @@ const et = "/assets/slim1-wadI2gDo.webp",
                 }),
                 u.jsxs("a", {
                   className: "h-full text-center text-xs",
-                  href: "https://x.com/",
+                  href: "https://x.com/habibioneth/",
                   "aria-label": "twitter",
                   children: [
                     u.jsx("img", {
