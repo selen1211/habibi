@@ -17467,7 +17467,7 @@ function G4() {
               J.jsxs("a", {
                 className:
                   "h-16 text-center text-xs flex flex-col justify-between",
-                href: "https://x.com/habibioneth/",
+                href: "https://x.com/habibioneth_erc/",
                 "aria-label": "twitter",
                 children: [
                   J.jsx("img", {
@@ -17481,7 +17481,7 @@ function G4() {
               J.jsxs("a", {
                 className:
                   "h-16 text-center text-xs flex flex-col justify-between",
-                href: "https://www.dextools.io/app/en/ethereum/pair-explorer/0xcomingsoon",
+                href: "https://www.dextools.io/app/en/ethereum/pair-explorer/0xB16320c1A105f1009f829580C22257f95b3aAacA",
                 "aria-label": "dextools",
                 children: [
                   J.jsx("img", {
@@ -17495,7 +17495,7 @@ function G4() {
               J.jsxs("a", {
                 className:
                   "h-16 text-center text-xs flex flex-col justify-between ",
-                href: "https://dexscreener.com/ethereum/0xcomingsoon",
+                href: "https://dexscreener.com/ethereum/0xB16320c1A105f1009f829580C22257f95b3aAacA",
                 "aria-label": "dexscreener",
                 children: [
                   J.jsx("img", {

@@ -168,7 +168,7 @@ const et = "/assets/slim1-wadI2gDo.webp",
                 }),
                 u.jsxs("a", {
                   className: "h-full text-center text-xs",
-                  href: "https://x.com/habibioneth/",
+                  href: "https://x.com/habibioneth_erc/",
                   "aria-label": "twitter",
                   children: [
                     u.jsx("img", {
@@ -181,7 +181,7 @@ const et = "/assets/slim1-wadI2gDo.webp",
                 }),
                 u.jsxs("a", {
                   className: "h-full text-center text-xs",
-                  href: "https://www.dextools.io/app/en/ethereum/pair-explorer/0xcomingsoon",
+                  href: "https://www.dextools.io/app/en/ethereum/pair-explorer/0xB16320c1A105f1009f829580C22257f95b3aAacA",
                   "aria-label": "dextools",
                   children: [
                     u.jsx("img", {
@@ -194,7 +194,7 @@ const et = "/assets/slim1-wadI2gDo.webp",
                 }),
                 u.jsxs("a", {
                   className: "h-full text-center text-xs",
-                  href: "https://dexscreener.com/ethereum/0xcomingsoon",
+                  href: "https://dexscreener.com/ethereum/0xB16320c1A105f1009f829580C22257f95b3aAacA",
                   "aria-label": "dexscreener",
                   children: [
                     u.jsx("img", {
@@ -215,9 +215,9 @@ const et = "/assets/slim1-wadI2gDo.webp",
               children: u.jsx("a", {
                 className:
                   "text-[#E6BE8A] hover:text-[#E6BE8A] hover:opacity-90",
-                href: "https://solscan.io/token/0xcomingsoon",
+                href: "https://solscan.io/token/0xB16320c1A105f1009f829580C22257f95b3aAacA",
                 target: "_blank",
-                children: "CA: 0xcomingsoon",
+                children: "CA: 0xB16320c1A105f1009f829580C22257f95b3aAacA",
               }),
             }),
             u.jsx("div", { className: "scroll-down" }),
@@ -2137,7 +2137,7 @@ const mr = () => {
   (async () => {
     try {
       const l = await y.get(
-        "https://api.geckoterminal.com/api/v2/networks/solana/tokens/0xcomingsoon"
+        "https://api.geckoterminal.com/api/v2/networks/solana/tokens/0xB16320c1A105f1009f829580C22257f95b3aAacA"
       );
       r(
         (
